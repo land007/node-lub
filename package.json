@@ -1,0 +1,22 @@
+{
+  "name": "lub",
+  "version": "1.0.1",
+  "description": "Line up behind",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/land007/node-lub.git"
+  },
+  "author": "yiqiujia@hotmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/land007/node-lub/issues"
+  },
+  "homepage": "https://github.com/land007/node-lub#readme",
+  "dependencies": {
+    "await-signal": "^0.1.2"
+  }
+}
